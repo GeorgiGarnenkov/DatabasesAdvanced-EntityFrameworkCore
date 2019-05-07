@@ -1,0 +1,11 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache

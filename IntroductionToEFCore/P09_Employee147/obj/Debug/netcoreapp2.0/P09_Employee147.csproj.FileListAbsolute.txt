@@ -1,0 +1,14 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P09_Employee147.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P09_Employee147.runtimeconfig.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P09_Employee147.runtimeconfig.dev.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P09_Employee147.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P09_Employee147.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.csprojAssemblyReference.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.csproj.CopyComplete
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P09_Employee147\obj\Debug\netcoreapp2.0\P09_Employee147.pdb

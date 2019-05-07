@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-16"?>
+<categories>
+  <category name="Business">
+    <products-count>25</products-count>
+    <average-price>768.2888</average-price>
+    <total-revenue>19207.22</total-revenue>
+  </category>
+  <category name="Drugs">
+    <products-count>22</products-count>
+    <average-price>699.495</average-price>
+    <total-revenue>15388.89</total-revenue>
+  </category>
+  <category name="Weapons">
+    <products-count>22</products-count>
+    <average-price>649.32272727272727272727272727</average-price>
+    <total-revenue>14285.10</total-revenue>
+  </category>
+  <category name="Other">
+    <products-count>20</products-count>
+    <average-price>920.309</average-price>
+    <total-revenue>18406.18</total-revenue>
+  </category>
+  <category name="Electronics">
+    <products-count>18</products-count>
+    <average-price>808.5361111111111111111111111</average-price>
+    <total-revenue>14553.65</total-revenue>
+  </category>
+  <category name="Garden">
+    <products-count>18</products-count>
+    <average-price>738.32888888888888888888888889</average-price>
+    <total-revenue>13289.92</total-revenue>
+  </category>
+  <category name="Sports">
+    <products-count>16</products-count>
+    <average-price>623.490625</average-price>
+    <total-revenue>9975.85</total-revenue>
+  </category>
+  <category name="Autoparts">
+    <products-count>16</products-count>
+    <average-price>855.90375</average-price>
+    <total-revenue>13694.46</total-revenue>
+  </category>
+  <category name="Fashion">
+    <products-count>15</products-count>
+    <average-price>697.428</average-price>
+    <total-revenue>10461.42</total-revenue>
+  </category>
+  <category name="For Children">
+    <products-count>14</products-count>
+    <average-price>852.6264285714285714285714286</average-price>
+    <total-revenue>11936.77</total-revenue>
+  </category>
+  <category name="Adult">
+    <products-count>14</products-count>
+    <average-price>918.1221428571428571428571429</average-price>
+    <total-revenue>12853.71</total-revenue>
+  </category>
+</categories>

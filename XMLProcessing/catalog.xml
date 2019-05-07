@@ -1,0 +1,60 @@
+<catalog>
+  <artist name="Linkin Park">
+    <album title="Hybrid Theory">
+	<year>2000</year>
+	<price>$20.00</price>
+	<producer>Don Gilmore</producer>
+	<songs>
+      <song title="Papercut" length="3:57"/>
+      <song title="One Step Closer" length="5:19"/>
+      <song title="With You" length="4:48"/>
+      <song title="Points of Authority" length="4:12"/>
+      <song title="Crawling" length="3:12"/>
+      <song title="Runaway" length="4:23"/>
+      <song title="By Myself" length="3:15"/>
+      <song title="A Place for My Head" length="5:16"/>
+	  <song title="Forgotten" length="5:16"/>
+	  <song title="Cure for the Itch" length="5:16"/>
+	  <song title="Pushing Me Away" length="5:16"/>
+     </songs>
+	 <description link="https://en.wikipedia.org/wiki/Hybrid_Theory">
+      </description>
+    </album>
+    <album title="Reanimation">
+	<year>2002</year>
+	<price>$26.00</price>
+	<producer>Mike Shinoda</producer>
+      <song title="Pts.OF.Athrty"  length="4:09"/>
+      <song title="Enth E ND"  length="3:23"/>
+      <song title="Chali"  length="3:55"/>
+      <song title="FRGT/10"  length="3:51"/>
+      <song title="P5hng Me A*wy"  length="3:29"/>
+      <song title="Plc.4 Mie Hæd"  length="3:06"/>
+      <song title="X-Ecutioner Style"  length="3:28"/>
+      <song title="H! Vltg3"  length="4:22"/>
+      <song title="Wth>You"  length="3:12"/>
+      <song title="Ppr:Kut"  length="3:08"/>
+      <song title="Krwlng"  length="3:41"/>
+      <description link="https://en.wikipedia.org/wiki/Reanimation_(Linkin_Park_album)">
+      </description>
+    </album>
+    <album title="Meteora">
+	<year>2003</year>
+	<price>$26.00</price>
+	<producer>Don Gilmore. Linkin Park</producer>
+      <song title="Don't Stay"  length="3:56"/>
+      <song title="Somewhere I Belong"  length="3:18"/>
+      <song title="Lying from You"  length="2:42"/>
+      <song title="Hit the Floor"  length="3:50"/>
+      <song title="Easier to Run"  length="2:52"/>
+      <song title="Faint"  length="3:29"/>
+      <song title="Breaking the Habit"  length="3:04"/>
+      <song title="From the Inside"  length="3:10"/>
+      <song title="Numb"  length="2:55"/>
+      <song title="Nobody's Listening"  length="3:00"/>
+      <song title="Session"  length="4:09"/>
+      <description link="https://en.wikipedia.org/wiki/Meteora_(album)">
+	  </description>
+    </album>
+  </artist>
+</catalog>

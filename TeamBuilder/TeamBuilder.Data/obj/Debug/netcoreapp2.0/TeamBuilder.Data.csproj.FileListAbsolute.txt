@@ -1,0 +1,12 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csprojAssemblyReference.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Data.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csproj.CopyComplete
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.pdb

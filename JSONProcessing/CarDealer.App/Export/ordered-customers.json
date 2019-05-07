@@ -1,0 +1,1441 @@
+[
+  {
+    "Id": 29,
+    "Name": "Louann Holzworth",
+    "BirthDate": "1960-10-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": []
+  },
+  {
+    "Id": 2,
+    "Name": "Donnetta Soliz",
+    "BirthDate": "1963-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 25,
+        "Discount": 50.00,
+        "CarId": 237,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      },
+      {
+        "Id": 34,
+        "Discount": 15.00,
+        "CarId": 131,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      },
+      {
+        "Id": 57,
+        "Discount": 30.00,
+        "CarId": 101,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      },
+      {
+        "Id": 74,
+        "Discount": 10.00,
+        "CarId": 97,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      },
+      {
+        "Id": 97,
+        "Discount": 40.00,
+        "CarId": 126,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      },
+      {
+        "Id": 102,
+        "Discount": 20.00,
+        "CarId": 100,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      },
+      {
+        "Id": 104,
+        "Discount": 0.00,
+        "CarId": 228,
+        "Car": null,
+        "CustomerId": 2,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Rema Revelle",
+    "BirthDate": "1970-05-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 103,
+        "Discount": 30.00,
+        "CarId": 117,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      },
+      {
+        "Id": 76,
+        "Discount": 30.00,
+        "CarId": 162,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      },
+      {
+        "Id": 88,
+        "Discount": 0.00,
+        "CarId": 310,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      },
+      {
+        "Id": 91,
+        "Discount": 15.00,
+        "CarId": 251,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      },
+      {
+        "Id": 111,
+        "Discount": 15.00,
+        "CarId": 13,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      },
+      {
+        "Id": 60,
+        "Discount": 50.00,
+        "CarId": 128,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      },
+      {
+        "Id": 143,
+        "Discount": 30.00,
+        "CarId": 358,
+        "Car": null,
+        "CustomerId": 13,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Carri Knapik",
+    "BirthDate": "1972-02-02T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 47,
+        "Discount": 20.00,
+        "CarId": 131,
+        "Car": null,
+        "CustomerId": 14,
+        "Customer": null
+      },
+      {
+        "Id": 113,
+        "Discount": 50.00,
+        "CarId": 123,
+        "Car": null,
+        "CustomerId": 14,
+        "Customer": null
+      },
+      {
+        "Id": 131,
+        "Discount": 50.00,
+        "CarId": 320,
+        "Car": null,
+        "CustomerId": 14,
+        "Customer": null
+      },
+      {
+        "Id": 89,
+        "Discount": 30.00,
+        "CarId": 356,
+        "Car": null,
+        "CustomerId": 14,
+        "Customer": null
+      },
+      {
+        "Id": 77,
+        "Discount": 30.00,
+        "CarId": 173,
+        "Car": null,
+        "CustomerId": 14,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Garret Capron",
+    "BirthDate": "1975-07-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 86,
+        "Discount": 5.00,
+        "CarId": 301,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      },
+      {
+        "Id": 128,
+        "Discount": 30.00,
+        "CarId": 150,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      },
+      {
+        "Id": 67,
+        "Discount": 20.00,
+        "CarId": 293,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      },
+      {
+        "Id": 70,
+        "Discount": 40.00,
+        "CarId": 176,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      },
+      {
+        "Id": 26,
+        "Discount": 5.00,
+        "CarId": 202,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      },
+      {
+        "Id": 10,
+        "Discount": 5.00,
+        "CarId": 26,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      },
+      {
+        "Id": 13,
+        "Discount": 50.00,
+        "CarId": 61,
+        "Car": null,
+        "CustomerId": 3,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "Teddy Hobby",
+    "BirthDate": "1975-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 61,
+        "Discount": 10.00,
+        "CarId": 81,
+        "Car": null,
+        "CustomerId": 22,
+        "Customer": null
+      },
+      {
+        "Id": 54,
+        "Discount": 30.00,
+        "CarId": 156,
+        "Car": null,
+        "CustomerId": 22,
+        "Customer": null
+      },
+      {
+        "Id": 81,
+        "Discount": 40.00,
+        "CarId": 42,
+        "Car": null,
+        "CustomerId": 22,
+        "Customer": null
+      },
+      {
+        "Id": 150,
+        "Discount": 15.00,
+        "CarId": 171,
+        "Car": null,
+        "CustomerId": 22,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "Audrea Cardinal",
+    "BirthDate": "1976-10-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 93,
+        "Discount": 15.00,
+        "CarId": 227,
+        "Car": null,
+        "CustomerId": 20,
+        "Customer": null
+      },
+      {
+        "Id": 126,
+        "Discount": 30.00,
+        "CarId": 334,
+        "Car": null,
+        "CustomerId": 20,
+        "Customer": null
+      },
+      {
+        "Id": 133,
+        "Discount": 5.00,
+        "CarId": 53,
+        "Car": null,
+        "CustomerId": 20,
+        "Customer": null
+      },
+      {
+        "Id": 23,
+        "Discount": 20.00,
+        "CarId": 49,
+        "Car": null,
+        "CustomerId": 20,
+        "Customer": null
+      },
+      {
+        "Id": 30,
+        "Discount": 40.00,
+        "CarId": 173,
+        "Car": null,
+        "CustomerId": 20,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Francis Mckim",
+    "BirthDate": "1977-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 62,
+        "Discount": 30.00,
+        "CarId": 77,
+        "Car": null,
+        "CustomerId": 19,
+        "Customer": null
+      },
+      {
+        "Id": 64,
+        "Discount": 50.00,
+        "CarId": 204,
+        "Car": null,
+        "CustomerId": 19,
+        "Customer": null
+      },
+      {
+        "Id": 109,
+        "Discount": 15.00,
+        "CarId": 64,
+        "Car": null,
+        "CustomerId": 19,
+        "Customer": null
+      },
+      {
+        "Id": 100,
+        "Discount": 15.00,
+        "CarId": 267,
+        "Car": null,
+        "CustomerId": 19,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "Brett Brickley",
+    "BirthDate": "1980-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 106,
+        "Discount": 5.00,
+        "CarId": 109,
+        "Car": null,
+        "CustomerId": 16,
+        "Customer": null
+      },
+      {
+        "Id": 107,
+        "Discount": 0.00,
+        "CarId": 124,
+        "Car": null,
+        "CustomerId": 16,
+        "Customer": null
+      },
+      {
+        "Id": 75,
+        "Discount": 10.00,
+        "CarId": 68,
+        "Car": null,
+        "CustomerId": 16,
+        "Customer": null
+      },
+      {
+        "Id": 55,
+        "Discount": 15.00,
+        "CarId": 1,
+        "Car": null,
+        "CustomerId": 16,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Kristian Engberg",
+    "BirthDate": "1981-10-03T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 56,
+        "Discount": 10.00,
+        "CarId": 89,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      },
+      {
+        "Id": 16,
+        "Discount": 15.00,
+        "CarId": 266,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      },
+      {
+        "Id": 87,
+        "Discount": 20.00,
+        "CarId": 208,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      },
+      {
+        "Id": 83,
+        "Discount": 50.00,
+        "CarId": 310,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      },
+      {
+        "Id": 119,
+        "Discount": 15.00,
+        "CarId": 306,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      },
+      {
+        "Id": 135,
+        "Discount": 20.00,
+        "CarId": 152,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      },
+      {
+        "Id": 149,
+        "Discount": 50.00,
+        "CarId": 193,
+        "Car": null,
+        "CustomerId": 15,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Hipolito Lamoreaux",
+    "BirthDate": "1982-08-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 141,
+        "Discount": 10.00,
+        "CarId": 116,
+        "Car": null,
+        "CustomerId": 4,
+        "Customer": null
+      },
+      {
+        "Id": 80,
+        "Discount": 40.00,
+        "CarId": 151,
+        "Car": null,
+        "CustomerId": 4,
+        "Customer": null
+      },
+      {
+        "Id": 28,
+        "Discount": 5.00,
+        "CarId": 244,
+        "Car": null,
+        "CustomerId": 4,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "Zada Attwood",
+    "BirthDate": "1982-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 68,
+        "Discount": 5.00,
+        "CarId": 23,
+        "Car": null,
+        "CustomerId": 26,
+        "Customer": null
+      },
+      {
+        "Id": 127,
+        "Discount": 15.00,
+        "CarId": 247,
+        "Car": null,
+        "CustomerId": 26,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Sylvie Mcelravy",
+    "BirthDate": "1983-10-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 15,
+        "Discount": 15.00,
+        "CarId": 178,
+        "Car": null,
+        "CustomerId": 5,
+        "Customer": null
+      },
+      {
+        "Id": 17,
+        "Discount": 5.00,
+        "CarId": 20,
+        "Car": null,
+        "CustomerId": 5,
+        "Customer": null
+      },
+      {
+        "Id": 11,
+        "Discount": 5.00,
+        "CarId": 88,
+        "Car": null,
+        "CustomerId": 5,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Rico Peer",
+    "BirthDate": "1984-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 12,
+        "Discount": 20.00,
+        "CarId": 153,
+        "Car": null,
+        "CustomerId": 23,
+        "Customer": null
+      },
+      {
+        "Id": 22,
+        "Discount": 15.00,
+        "CarId": 273,
+        "Car": null,
+        "CustomerId": 23,
+        "Customer": null
+      },
+      {
+        "Id": 29,
+        "Discount": 5.00,
+        "CarId": 85,
+        "Car": null,
+        "CustomerId": 23,
+        "Customer": null
+      },
+      {
+        "Id": 52,
+        "Discount": 40.00,
+        "CarId": 45,
+        "Car": null,
+        "CustomerId": 23,
+        "Customer": null
+      },
+      {
+        "Id": 44,
+        "Discount": 15.00,
+        "CarId": 98,
+        "Car": null,
+        "CustomerId": 23,
+        "Customer": null
+      },
+      {
+        "Id": 99,
+        "Discount": 50.00,
+        "CarId": 198,
+        "Car": null,
+        "CustomerId": 23,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Hai Everton",
+    "BirthDate": "1985-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 101,
+        "Discount": 20.00,
+        "CarId": 54,
+        "Car": null,
+        "CustomerId": 25,
+        "Customer": null
+      },
+      {
+        "Id": 82,
+        "Discount": 5.00,
+        "CarId": 85,
+        "Car": null,
+        "CustomerId": 25,
+        "Customer": null
+      },
+      {
+        "Id": 132,
+        "Discount": 50.00,
+        "CarId": 36,
+        "Car": null,
+        "CustomerId": 25,
+        "Customer": null
+      },
+      {
+        "Id": 39,
+        "Discount": 30.00,
+        "CarId": 334,
+        "Car": null,
+        "CustomerId": 25,
+        "Customer": null
+      },
+      {
+        "Id": 46,
+        "Discount": 50.00,
+        "CarId": 171,
+        "Car": null,
+        "CustomerId": 25,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Lino Subia",
+    "BirthDate": "1985-12-21T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 45,
+        "Discount": 30.00,
+        "CarId": 52,
+        "Car": null,
+        "CustomerId": 24,
+        "Customer": null
+      },
+      {
+        "Id": 20,
+        "Discount": 40.00,
+        "CarId": 141,
+        "Car": null,
+        "CustomerId": 24,
+        "Customer": null
+      },
+      {
+        "Id": 108,
+        "Discount": 0.00,
+        "CarId": 60,
+        "Car": null,
+        "CustomerId": 24,
+        "Customer": null
+      },
+      {
+        "Id": 95,
+        "Discount": 40.00,
+        "CarId": 37,
+        "Car": null,
+        "CustomerId": 24,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Jimmy Grossi",
+    "BirthDate": "1986-07-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 134,
+        "Discount": 0.00,
+        "CarId": 176,
+        "Car": null,
+        "CustomerId": 6,
+        "Customer": null
+      },
+      {
+        "Id": 123,
+        "Discount": 30.00,
+        "CarId": 325,
+        "Car": null,
+        "CustomerId": 6,
+        "Customer": null
+      },
+      {
+        "Id": 27,
+        "Discount": 20.00,
+        "CarId": 340,
+        "Car": null,
+        "CustomerId": 6,
+        "Customer": null
+      },
+      {
+        "Id": 8,
+        "Discount": 10.00,
+        "CarId": 330,
+        "Car": null,
+        "CustomerId": 6,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "Carole Witman",
+    "BirthDate": "1987-10-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 78,
+        "Discount": 40.00,
+        "CarId": 168,
+        "Car": null,
+        "CustomerId": 18,
+        "Customer": null
+      },
+      {
+        "Id": 146,
+        "Discount": 50.00,
+        "CarId": 145,
+        "Car": null,
+        "CustomerId": 18,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Oren Perlman",
+    "BirthDate": "1988-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 96,
+        "Discount": 15.00,
+        "CarId": 102,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 129,
+        "Discount": 0.00,
+        "CarId": 105,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 125,
+        "Discount": 0.00,
+        "CarId": 100,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 140,
+        "Discount": 20.00,
+        "CarId": 225,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 136,
+        "Discount": 15.00,
+        "CarId": 182,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 21,
+        "Discount": 0.00,
+        "CarId": 333,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 36,
+        "Discount": 0.00,
+        "CarId": 190,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 43,
+        "Discount": 50.00,
+        "CarId": 199,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      },
+      {
+        "Id": 48,
+        "Discount": 0.00,
+        "CarId": 194,
+        "Car": null,
+        "CustomerId": 17,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "Marcelle Griego",
+    "BirthDate": "1990-10-04T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 41,
+        "Discount": 20.00,
+        "CarId": 52,
+        "Car": null,
+        "CustomerId": 27,
+        "Customer": null
+      },
+      {
+        "Id": 71,
+        "Discount": 15.00,
+        "CarId": 200,
+        "Car": null,
+        "CustomerId": 27,
+        "Customer": null
+      },
+      {
+        "Id": 130,
+        "Discount": 40.00,
+        "CarId": 19,
+        "Car": null,
+        "CustomerId": 27,
+        "Customer": null
+      },
+      {
+        "Id": 105,
+        "Discount": 15.00,
+        "CarId": 199,
+        "Car": null,
+        "CustomerId": 27,
+        "Customer": null
+      },
+      {
+        "Id": 144,
+        "Discount": 15.00,
+        "CarId": 132,
+        "Car": null,
+        "CustomerId": 27,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Natalie Poli",
+    "BirthDate": "1990-10-04T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 147,
+        "Discount": 20.00,
+        "CarId": 36,
+        "Car": null,
+        "CustomerId": 28,
+        "Customer": null
+      },
+      {
+        "Id": 51,
+        "Discount": 10.00,
+        "CarId": 286,
+        "Car": null,
+        "CustomerId": 28,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Yvonne Mccalla",
+    "BirthDate": "1992-03-02T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 37,
+        "Discount": 50.00,
+        "CarId": 319,
+        "Car": null,
+        "CustomerId": 11,
+        "Customer": null
+      },
+      {
+        "Id": 63,
+        "Discount": 10.00,
+        "CarId": 114,
+        "Car": null,
+        "CustomerId": 11,
+        "Customer": null
+      },
+      {
+        "Id": 24,
+        "Discount": 5.00,
+        "CarId": 190,
+        "Car": null,
+        "CustomerId": 11,
+        "Customer": null
+      },
+      {
+        "Id": 18,
+        "Discount": 30.00,
+        "CarId": 316,
+        "Car": null,
+        "CustomerId": 11,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "Ann Mcenaney",
+    "BirthDate": "1992-03-02T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 2,
+        "Discount": 5.00,
+        "CarId": 358,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 58,
+        "Discount": 5.00,
+        "CarId": 72,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 72,
+        "Discount": 5.00,
+        "CarId": 57,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 65,
+        "Discount": 50.00,
+        "CarId": 75,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 79,
+        "Discount": 50.00,
+        "CarId": 212,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 137,
+        "Discount": 0.00,
+        "CarId": 10,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 138,
+        "Discount": 0.00,
+        "CarId": 154,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      },
+      {
+        "Id": 124,
+        "Discount": 40.00,
+        "CarId": 202,
+        "Car": null,
+        "CustomerId": 30,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Cinthia Lasala",
+    "BirthDate": "1992-11-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 118,
+        "Discount": 15.00,
+        "CarId": 112,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      },
+      {
+        "Id": 112,
+        "Discount": 15.00,
+        "CarId": 253,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      },
+      {
+        "Id": 139,
+        "Discount": 20.00,
+        "CarId": 55,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      },
+      {
+        "Id": 66,
+        "Discount": 10.00,
+        "CarId": 128,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      },
+      {
+        "Id": 59,
+        "Discount": 50.00,
+        "CarId": 161,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      },
+      {
+        "Id": 50,
+        "Discount": 0.00,
+        "CarId": 296,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      },
+      {
+        "Id": 5,
+        "Discount": 0.00,
+        "CarId": 146,
+        "Car": null,
+        "CustomerId": 9,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "Name": "Emmitt Benally",
+    "BirthDate": "1993-11-20T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 6,
+        "Discount": 20.00,
+        "CarId": 26,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      },
+      {
+        "Id": 7,
+        "Discount": 20.00,
+        "CarId": 158,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      },
+      {
+        "Id": 31,
+        "Discount": 40.00,
+        "CarId": 344,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      },
+      {
+        "Id": 49,
+        "Discount": 30.00,
+        "CarId": 221,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      },
+      {
+        "Id": 122,
+        "Discount": 10.00,
+        "CarId": 238,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      },
+      {
+        "Id": 94,
+        "Discount": 10.00,
+        "CarId": 340,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      },
+      {
+        "Id": 98,
+        "Discount": 10.00,
+        "CarId": 151,
+        "Car": null,
+        "CustomerId": 1,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Nisha Markwell",
+    "BirthDate": "1994-04-04T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 121,
+        "Discount": 20.00,
+        "CarId": 264,
+        "Car": null,
+        "CustomerId": 10,
+        "Customer": null
+      },
+      {
+        "Id": 73,
+        "Discount": 30.00,
+        "CarId": 36,
+        "Car": null,
+        "CustomerId": 10,
+        "Customer": null
+      },
+      {
+        "Id": 9,
+        "Discount": 40.00,
+        "CarId": 143,
+        "Car": null,
+        "CustomerId": 10,
+        "Customer": null
+      },
+      {
+        "Id": 148,
+        "Discount": 15.00,
+        "CarId": 261,
+        "Car": null,
+        "CustomerId": 10,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Faustina Burgher",
+    "BirthDate": "1994-06-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 145,
+        "Discount": 50.00,
+        "CarId": 315,
+        "Car": null,
+        "CustomerId": 7,
+        "Customer": null
+      },
+      {
+        "Id": 32,
+        "Discount": 10.00,
+        "CarId": 130,
+        "Car": null,
+        "CustomerId": 7,
+        "Customer": null
+      },
+      {
+        "Id": 35,
+        "Discount": 40.00,
+        "CarId": 178,
+        "Car": null,
+        "CustomerId": 7,
+        "Customer": null
+      },
+      {
+        "Id": 42,
+        "Discount": 30.00,
+        "CarId": 267,
+        "Car": null,
+        "CustomerId": 7,
+        "Customer": null
+      },
+      {
+        "Id": 142,
+        "Discount": 10.00,
+        "CarId": 162,
+        "Car": null,
+        "CustomerId": 7,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Taina Achenbach",
+    "BirthDate": "1994-10-01T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 117,
+        "Discount": 40.00,
+        "CarId": 136,
+        "Car": null,
+        "CustomerId": 12,
+        "Customer": null
+      },
+      {
+        "Id": 4,
+        "Discount": 30.00,
+        "CarId": 336,
+        "Car": null,
+        "CustomerId": 12,
+        "Customer": null
+      },
+      {
+        "Id": 19,
+        "Discount": 40.00,
+        "CarId": 325,
+        "Car": null,
+        "CustomerId": 12,
+        "Customer": null
+      },
+      {
+        "Id": 14,
+        "Discount": 30.00,
+        "CarId": 294,
+        "Car": null,
+        "CustomerId": 12,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "Johnette Derryberry",
+    "BirthDate": "1995-10-01T00:00:00",
+    "IsYoungDriver": true,
+    "Sales": [
+      {
+        "Id": 1,
+        "Discount": 15.00,
+        "CarId": 208,
+        "Car": null,
+        "CustomerId": 21,
+        "Customer": null
+      },
+      {
+        "Id": 69,
+        "Discount": 40.00,
+        "CarId": 257,
+        "Car": null,
+        "CustomerId": 21,
+        "Customer": null
+      },
+      {
+        "Id": 114,
+        "Discount": 50.00,
+        "CarId": 256,
+        "Car": null,
+        "CustomerId": 21,
+        "Customer": null
+      },
+      {
+        "Id": 115,
+        "Discount": 50.00,
+        "CarId": 168,
+        "Car": null,
+        "CustomerId": 21,
+        "Customer": null
+      },
+      {
+        "Id": 90,
+        "Discount": 50.00,
+        "CarId": 105,
+        "Car": null,
+        "CustomerId": 21,
+        "Customer": null
+      },
+      {
+        "Id": 92,
+        "Discount": 50.00,
+        "CarId": 216,
+        "Car": null,
+        "CustomerId": 21,
+        "Customer": null
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Daniele Zarate",
+    "BirthDate": "1995-10-05T00:00:00",
+    "IsYoungDriver": false,
+    "Sales": [
+      {
+        "Id": 84,
+        "Discount": 50.00,
+        "CarId": 183,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 85,
+        "Discount": 5.00,
+        "CarId": 8,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 116,
+        "Discount": 50.00,
+        "CarId": 349,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 110,
+        "Discount": 50.00,
+        "CarId": 198,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 120,
+        "Discount": 10.00,
+        "CarId": 116,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 38,
+        "Discount": 20.00,
+        "CarId": 113,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 40,
+        "Discount": 0.00,
+        "CarId": 126,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 53,
+        "Discount": 20.00,
+        "CarId": 137,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 3,
+        "Discount": 40.00,
+        "CarId": 226,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      },
+      {
+        "Id": 33,
+        "Discount": 20.00,
+        "CarId": 101,
+        "Car": null,
+        "CustomerId": 8,
+        "Customer": null
+      }
+    ]
+  }
+]

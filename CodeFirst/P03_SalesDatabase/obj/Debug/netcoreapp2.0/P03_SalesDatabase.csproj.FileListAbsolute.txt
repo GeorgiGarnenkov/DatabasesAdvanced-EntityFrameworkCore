@@ -1,0 +1,10 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.runtimeconfig.dev.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P03_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb

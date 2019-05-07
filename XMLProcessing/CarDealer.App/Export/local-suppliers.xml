@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<suppliers>
+  <supplier id="1" name="3M Company" parts-count="3" />
+  <supplier id="3" name="Textron Inc" parts-count="7" />
+  <supplier id="4" name="Sunoco Inc." parts-count="4" />
+  <supplier id="6" name="Paychex Inc" parts-count="1" />
+  <supplier id="7" name="Olin Corp." parts-count="1" />
+  <supplier id="9" name="Merck &amp; Co., Inc." parts-count="3" />
+  <supplier id="11" name="IDT Corporation" parts-count="8" />
+  <supplier id="13" name="Emcor Group Inc." parts-count="5" />
+  <supplier id="14" name="E*Trade Group, Inc." parts-count="4" />
+  <supplier id="15" name="Wyeth" parts-count="4" />
+  <supplier id="18" name="CMGI Inc." parts-count="2" />
+  <supplier id="19" name="CNF Inc." parts-count="0" />
+  <supplier id="21" name="Chubb Corp" parts-count="6" />
+  <supplier id="23" name="Casey's General Stores Inc." parts-count="5" />
+  <supplier id="25" name="Big Lots, Inc." parts-count="10" />
+  <supplier id="26" name="Atmel Corporation" parts-count="6" />
+  <supplier id="28" name="Anthem, Inc." parts-count="6" />
+  <supplier id="30" name="Danaher Corporation" parts-count="4" />
+</suppliers>

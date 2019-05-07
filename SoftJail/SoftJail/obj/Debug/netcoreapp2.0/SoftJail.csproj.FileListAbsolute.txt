@@ -1,0 +1,11 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\SoftJail\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache

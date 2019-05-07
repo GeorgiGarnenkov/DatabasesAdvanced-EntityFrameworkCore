@@ -1,0 +1,12 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.Models.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.csprojAssemblyReference.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.csproj.CopyComplete
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\CodeFirst\P01_HospitalDatabase.Data\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.Data.pdb

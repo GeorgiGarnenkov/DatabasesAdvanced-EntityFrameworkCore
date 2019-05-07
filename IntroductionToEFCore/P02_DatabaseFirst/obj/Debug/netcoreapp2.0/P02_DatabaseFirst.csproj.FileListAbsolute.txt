@@ -1,0 +1,11 @@
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csproj.CoreCompileInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfoInputs.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.AssemblyInfo.cs
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.deps.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.runtimeconfig.dev.json
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.csprojAssemblyReference.cache
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\SOFTUNI\RepoFolder\DatabasesAdvancedEntityFramework\IntroductionToEFCore\P02_DatabaseFirst\obj\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb

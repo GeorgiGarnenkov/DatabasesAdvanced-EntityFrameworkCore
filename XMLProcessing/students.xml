@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<studentsDatabase>
+<student>
+  <name>Georgi Georgiev</name>
+  <gender>Male</gender>
+  <birthDate>1989/12/23</birthDate>
+  <phoneNumber>0877888888</phoneNumber>
+  <email>georgigeorgiev@gmail.com</email>
+  <university>SoftUni</university>
+  <specialty>C# Web Developer</specialty>
+  <facultyNumber>12345678</facultyNumber>
+  <exams>
+    <examName>Programing Basics</examName>
+    <dateTaken>2017/09/01</dateTaken>
+    <grade>6.0</grade>
+  </exams>
+  <exams>
+    <examName>Programing Fundamentals</examName>
+    <dateTaken>2018/01/01</dateTaken>
+    <grade>6.0</grade>
+  </exams>
+</student>
+  <student>
+    <name>Ivan Ivanov</name>
+    <gender>Male</gender>
+    <birthDate>1995/05/10</birthDate>
+    <phoneNumber>0877999999</phoneNumber>
+    <email>ivanivanov@gmail.com</email>
+    <university>SoftUni</university>
+    <specialty>Java Web Developer</specialty>
+    <facultyNumber>87654321</facultyNumber>
+    <exams>
+      <examName>Programing Fundamentals</examName>
+      <dateTaken>2017/05/05</dateTaken>
+      <grade>6.0</grade>
+    </exams>
+  </student>
+</studentsDatabase>
